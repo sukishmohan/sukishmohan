@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20&height=220&section=header&text=Sukish%20M&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,15,18,20,24,30&height=300&section=header&text=Sukish%20M%20%F0%9F%9A%80&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=AI%2FML%20Engineer%20%7C%20Data%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+Python+%26+AI;Data+Engineering+%7C+Machine+Learning;Turning+data+into+real-world+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Building+intelligent+systems+with+Python+%26+AI;%F0%9F%94%AE+Data+Engineering+%7C+Machine+Learning;%F0%9F%93%88+Turning+data+into+real-world+impact;%F0%9F%A4%96+Generative+AI+%7C+RAG+%7C+Multi-Agent+Systems;%E2%98%81%EF%B8%8F+Azure+%7C+Databricks+%7C+PySpark" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-<a href="tel:+919080668928"><img src="https://img.shields.io/badge/Phone-8B5CF6?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sukishm"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/919080668928"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sukishmohan"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sukishmohan2527@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/sukishmohan"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -26,9 +26,11 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 About Me
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ2cHh3NXB3aG5jZ3RzZ2F3d2h6bHd0cDZjcG5vNHhwYWF6bHM1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWkmVYj/giphy.gif" width="300" alt="coding gif"/>
 
 ```
 I'm an AI/ML and Data Engineer with a strong foundation in Python, 
@@ -48,6 +50,8 @@ product mindset: clean pipelines, reliable models, and systems that
 deliver measurable impact.
 ```
 
+<br clear="both"/>
+
 <div align="center">
 
 ### 🎯 Open To
@@ -59,7 +63,7 @@ deliver measurable impact.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -83,7 +87,7 @@ deliver measurable impact.
 <img src="https://skillicons.dev/icons?i=azure,git,gitlab,vscode,powerbi,tableau&theme=dark"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤖 AI / ML Expertise
 
@@ -105,7 +109,7 @@ deliver measurable impact.
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Tamil Sign Language Recognition System</b></summary>
+<summary><b>🔹 Tamil Sign Language Recognition</b></summary>
 <br/>
 
 An end-to-end deep learning application that recognizes 247 Tamil hand signs from a live webcam feed and converts them into speech in real time, built as an assistive technology solution.
@@ -117,59 +121,77 @@ An end-to-end deep learning application that recognizes 247 Tamil hand signs fro
 | **Performance** | Real-time prediction smoothing for stable live inference |
 | **Security** | Local inference, no external data transmission |
 | **Impact** | Functional assistive communication tool for the hearing/speech impaired |
-| **Repository** | *Coming soon* |
+| **Repository** | [View Repo](https://github.com/sukishmohan/tamil-sign-recognition) |
 
 Implemented two-phase transfer learning (frozen base + fine-tuning) on MobileNetV2 for efficient on-device inference, built a Flask REST API to serve predictions, and integrated gTTS for real-time speech output — covering the full SDLC from data collection to deployment.
 
 </details>
 
 <details>
-<summary><b>🔹 Olympic Data Engineering Pipeline</b></summary>
+<summary><b>🔹 Algorithmic Trading Strategy</b></summary>
 <br/>
 
-An end-to-end ETL pipeline on Microsoft Azure that ingests, transforms, and stores Olympic datasets using industry-standard data engineering tools.
+A production-quality algorithmic trading system implementing a long-only Price-Action Moving Average Crossover with ATR Trailing Stop strategy, featuring Walk-Forward Analysis and robust risk management.
 
 | Category | Details |
 |---|---|
-| **Stack** | Azure Data Factory, Databricks, PySpark, Azure Data Lake Storage (ADLS) |
-| **Scale** | Multi-stage pipeline across raw, transformed, and curated zones |
-| **Performance** | Optimized PySpark transformations for large dataset processing |
-| **Security** | Governed access via Azure storage hierarchy and version-controlled pipelines |
-| **Impact** | Reusable ETL pattern applicable to enterprise data platforms |
-| **Repository** | *Coming soon* |
+| **Stack** | Python, Pandas, NumPy, Matplotlib, Backtesting Engine |
+| **Scale** | Walk-Forward Analysis across multiple market regimes |
+| **Performance** | 75.21/100 Robustness Score with 1% capital risk per trade |
+| **Risk Management** | ATR-based trailing stops, 50% notional capital cap, 1% commission modeling |
+| **Impact** | Production-ready strategy framework for systematic trading |
+| **Repository** | [View Repo](https://github.com/sukishmohan/algorithmic-trading-strategy) |
 
-Designed ingestion pipelines in Azure Data Factory with REST API connectors, performed transformations using Databricks and PySpark, stored curated data in ADLS, and maintained the project with GitLab version control following ETL design best practices.
+Designed a trend-following strategy with price-action confirmation, implemented automated backtesting with Walk-Forward Analysis for robustness validation, and generated performance metrics with visual equity curves.
 
 </details>
 
 <details>
-<summary><b>🔹 Scalable Sales Data Warehouse with Incremental Load & SCD</b></summary>
+<summary><b>🔹 Customer Behavior Analysis</b></summary>
 <br/>
 
-A data warehouse implementation featuring star-schema modelling, incremental ETL, and Slowly Changing Dimension handling for sales data.
+A comprehensive data analytics project uncovering purchase patterns, customer preferences, and behavioral trends using Python, SQL, and Power BI to drive marketing strategy and business growth.
 
 | Category | Details |
 |---|---|
-| **Stack** | Databricks, SQL, PySpark, Delta Lake |
-| **Scale** | Fact-dimension model supporting incremental loads |
-| **Performance** | Tuned queries for efficient large-scale analytical reads |
-| **Security** | Data validation and governance checks built into pipeline |
-| **Impact** | Production-grade DWH pattern for evolving sales data |
-| **Repository** | *Coming soon* |
+| **Stack** | Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI |
+| **Scale** | Full EDA pipeline with customer segmentation analysis |
+| **Performance** | Statistical analysis of purchase patterns and correlations |
+| **Methodology** | Data cleaning, exploratory analysis, segmentation modeling |
+| **Impact** | Actionable insights for customer retention and revenue optimization |
+| **Repository** | [View Repo](https://github.com/sukishmohan/customer_behavior_analysis) |
 
-Built a star-schema sales warehouse on Delta Lake with fact and dimension tables, implemented SCD Types 0/1/2/3 to handle evolving dimensions, designed incremental ETL logic in PySpark, and tuned SQL queries for performance with built-in data validation checks.
+Performed end-to-end data processing from collection to visualization, identified high-value customer segments through behavioral clustering, and delivered data-driven recommendations for targeted marketing campaigns.
+
+</details>
+
+<details>
+<summary><b>🔹 Daily Reflection Tree</b></summary>
+<br/>
+
+A production-grade deterministic behavioral insight system that guides users through structured end-of-day reflections using a 32-node decision tree — no LLMs, no randomness, pure deterministic psychology.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python 3.7+ (standard library only, zero dependencies) |
+| **Scale** | 32-node decision tree across 3 psychological axes |
+| **Performance** | Deterministic — same inputs always yield same output |
+| **Methodology** | Locus of Control, Orientation, Radius of Concern mapping |
+| **Impact** | Personalized pattern summaries with long-term behavior tracking |
+| **Repository** | [View Repo](https://github.com/sukishmohan/Daily-Reflection-Tree) |
+
+Built a fully deterministic reflection engine that maps emotional events across three psychological dimensions, generates personalized insights without AI dependency, and maintains auditable session logs for longitudinal pattern analysis.
 
 </details>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Experience
 
-### Data Analyst Intern · Corizo (Remote)
-**2023 – 2024**
+### Data Science Intern · Corizo (Remote)
 
-Worked on large-scale customer data analysis, performing end-to-end data cleaning, transformation, and visualization to support business decision-making.
+Worked on large-scale customer data analysis and machine learning applications, performing end-to-end data cleaning, transformation, and visualization to support business decision-making.
 
 - Performed large-scale customer data analysis using Python and SQL
 - Built interactive dashboards and reports using Power BI
@@ -190,7 +212,7 @@ Active member of IEEE student chapter, with leadership experience organizing dep
 
 **Skills:** `Leadership` `Team Coordination` `Public Speaking` `Event Management`
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Achievements
 
@@ -206,7 +228,7 @@ Active member of IEEE student chapter, with leadership experience organizing dep
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📜 Certifications
 
@@ -217,20 +239,7 @@ Active member of IEEE student chapter, with leadership experience organizing dep
 <img src="https://img.shields.io/badge/Learning%20Power%20BI%20Desktop-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau%20for%20Data%20Scientists-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/sukishm"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://geeksforgeeks.org/user/sukishm"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://hackerrank.com/sukishm"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://codechef.com/users/sukishm"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -245,7 +254,7 @@ Active member of IEEE student chapter, with leadership experience organizing dep
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏅 GitHub Trophies
 
@@ -255,7 +264,7 @@ Active member of IEEE student chapter, with leadership experience organizing dep
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Contribution Activity
 
@@ -265,7 +274,7 @@ Active member of IEEE student chapter, with leadership experience organizing dep
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
@@ -275,7 +284,7 @@ Active member of IEEE student chapter, with leadership experience organizing dep
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Current Focus
 
@@ -308,7 +317,7 @@ Open To:
 <div align="center">
 
 <a href="mailto:sukishmohan2527@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sukishm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sukishmohan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/sukishmohan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
