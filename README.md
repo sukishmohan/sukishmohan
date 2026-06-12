@@ -240,6 +240,25 @@ Built a star-schema sales warehouse on Delta Lake with fact and dimension tables
 
 </details>
 
+<details>
+<summary><b>🔹 Alzheimer's Disease Prediction</b></summary>
+<br/>
+
+A hybrid deep learning model for Alzheimer's disease detection from MRI scans, combining U-Net for image segmentation and SE-ResNet for feature extraction with a fully connected neural network for classification.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, TensorFlow, Keras, OpenCV, U-Net, SE-ResNet |
+| **Architecture** | U-Net (segmentation) → SE-ResNet (feature extraction) → FC Network (classification) |
+| **Data** | MRI brain scan images for Alzheimer's detection |
+| **Techniques** | Medical image segmentation, transfer learning, deep feature extraction |
+| **Impact** | Accurate Alzheimer's prediction through hybrid deep learning pipeline |
+| **Repository** | *Coming soon* |
+
+Developed a hybrid model integrating U-Net for precise MRI image segmentation followed by SE-ResNet for robust feature extraction, feeding into a fully connected neural network for Alzheimer's disease classification — combining the strengths of both architectures for improved diagnostic accuracy.
+
+</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Experience
