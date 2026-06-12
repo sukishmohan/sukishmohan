@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,15,18,20,24,30&height=300&section=header&text=Sukish%20M%20%F0%9F%9A%80&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=AI%2FML%20Engineer%20%7C%20Data%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:8B5CF6&height=250&section=header&text=Sukish%20M&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Building+intelligent+systems+with+Python+%26+AI;%F0%9F%94%AE+Data+Engineering+%7C+Machine+Learning;%F0%9F%93%88+Turning+data+into+real-world+impact;%F0%9F%A4%96+Generative+AI+%7C+RAG+%7C+Multi-Agent+Systems;%E2%98%81%EF%B8%8F+Azure+%7C+Databricks+%7C+PySpark" alt="Typing SVG" />
@@ -184,6 +184,61 @@ Built a fully deterministic reflection engine that maps emotional events across 
 
 </details>
 
+<details>
+<summary><b>🔹 AI Data Analyst Agent</b></summary>
+<br/>
+
+An end-to-end AI Data Analyst Agent that analyzes CSV datasets through natural language queries, built with a multi-agent architecture for query parsing, planning, code generation, safe execution, and reporting.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, Pandas, Streamlit, Matplotlib, Llama3 (via Ollama) |
+| **Capabilities** | Natural language querying, code generation with retry, visualization |
+| **Architecture** | Multi-agent: Query Parser → Planner → Code Generator → Executor → Reporter |
+| **Outputs** | Visualizations, forecasts, PDF reports from CSV data |
+| **Repository** | *Coming soon* |
+
+Developed a multi-agent pipeline where user queries are parsed into execution plans, Python code is generated and safely executed with retry logic, and results are delivered as interactive visualizations and downloadable PDF reports.
+
+</details>
+
+<details>
+<summary><b>🔹 Olympic Data Engineering Pipeline</b></summary>
+<br/>
+
+An end-to-end data pipeline on Microsoft Azure that ingests, transforms, and analyzes Tokyo Olympics data at scale using cloud-native data engineering tools.
+
+| Category | Details |
+|---|---|
+| **Stack** | Azure Data Factory, Databricks, PySpark, Azure Data Lake Storage |
+| **Scale** | Multi-stage pipeline across raw, transformed, and curated zones |
+| **Processing** | Distributed transformations using PySpark on Databricks |
+| **Security** | Governed access via Azure storage hierarchy |
+| **Impact** | Reusable ETL pattern for large-scale analytics |
+| **Repository** | *Coming soon* |
+
+Designed ingestion pipelines in Azure Data Factory, performed distributed transformations with PySpark on Databricks, and stored curated Olympic datasets in Azure Data Lake Storage following medallion architecture best practices.
+
+</details>
+
+<details>
+<summary><b>🔹 Scalable Sales Data Warehouse with SCD</b></summary>
+<br/>
+
+A scalable data warehouse on Databricks featuring fact-dimension modeling, incremental ETL, and Slowly Changing Dimension handling for evolving sales data.
+
+| Category | Details |
+|---|---|
+| **Stack** | Databricks, SQL, PySpark, Delta Lake |
+| **Scale** | Fact-dimension model supporting incremental loads |
+| **SCD Types** | Type 0, 1, 2, 3 implemented for dimension tracking |
+| **Performance** | Optimized incremental ETL for large-scale analytical reads |
+| **Impact** | Production-grade DWH pattern for evolving sales data |
+| **Repository** | *Coming soon* |
+
+Built a star-schema sales warehouse on Delta Lake with fact and dimension tables, implemented SCD Types 0/1/2/3 to handle evolving customer and product dimensions, and designed incremental ETL logic in PySpark for efficient data processing.
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -256,31 +311,11 @@ Active member of IEEE student chapter, with leadership experience organizing dep
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sukishmohan&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukishmohan&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sukishmohan/sukishmohan/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
